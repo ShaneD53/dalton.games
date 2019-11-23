@@ -6,8 +6,8 @@ author: Shane Dalton
 cover: /img/cover.jpg
 categories: ["category1"]
 tags: ["tag1", "tag2"]
-# showcase: true
-draft: true
+showcase: true
+draft: false
 ---
 
 Two player local co-op game about escaping a burning office building.

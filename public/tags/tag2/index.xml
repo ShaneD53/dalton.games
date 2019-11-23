@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shane Dalton</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Shane Dalton</description>
+    <title>tag2 on Shane Dalton</title>
+    <link>http://example.org/tags/tag2/</link>
+    <description>Recent content in tag2 on Shane Dalton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2019 19:35:02 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
