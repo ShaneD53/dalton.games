@@ -1,9 +1,3 @@
----
-title: "Netlify"
-date: 2019-11-23T19:10:44+11:00
-draft: true
----
-
 [build]
 publish = "public"
 command = "hugo --gc --minify"
