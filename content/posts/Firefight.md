@@ -14,7 +14,6 @@ Two player local co-op game about escaping a burning office building.
 <!--more-->
 <!--<h1>TODO VIDEO</h1>
 	<h1>TODO SCREENSHOT GALLERY</h1>
-	<h1>TODO CHANGE TO itch EMBED</h1>
 -->
 
 {{< youtube qkjSGFD2nvo >}}
@@ -36,5 +35,4 @@ The objective is to escape a burning building. There are two characters: Charlie
 <li>Established Level Design Metrics to create comfortable Co-operative play</li>
 <li>Perforce Server Management</li>
 
-
-<a href="https://shanemakesgames.itch.io/firefight">Visit the itch.io page to read the full credits and download the game. </a>
+<iframe frameborder="0" src="https://itch.io/embed/521447?border_width=2&amp;bg_color=d9d9d9&amp;fg_color=222222&amp;link_color=8d0000&amp;border_color=c0824e" width="554" height="169"></iframe>
