@@ -5,7 +5,7 @@ lastmod: 2019-11-22T19:35:02+11:00
 author: Shane Dalton
 cover: /img/cover.jpg
 categories: ["category1"]
-<!--tags: ["tag1", "tag2"]-->
+tags: [""]
 showcase: false
 draft: false
 ---
