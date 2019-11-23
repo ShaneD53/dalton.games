@@ -29,3 +29,10 @@ HUGO_VERSION = "0.59.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "http://affectionate-williams-254cf4.netlify.com/* "
+  to = "http://dalton.games/"
+  status = 301
+  force = false
+  query = {path = ":splat"}
+  
