@@ -46,6 +46,13 @@
                 <i class="large codepen icon" title="codepen"></i>
               </a>
             </div>
+            {{ end }}
+          {{ if .Site.Params.itch }}
+            <div class="item">
+              <a href="{{ .Site.Params.itch }}.itch.io/" target="_blank">
+                <i class="large codepen icon" title="Itch.io"></i>
+              </a>
+            </div>
           {{ end }}
         </nav>
       </div>
