@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Shane Dalton"
+theme = "dream"
+defaultContentLanguage = "en"
+
+[params]
+	#background = "black"
+	linkcolor = "seagreen"
+	email = "shane@dalton.games"
+	linkedin = "shanedaltondesign"

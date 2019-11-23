@@ -1,0 +1,17 @@
+RATIONAL GAME DESIGN:
+
+-Eliminate unnecessary information
+
+-make things readable, understandable and apparent
+
+-introduce mechanics in an orderly and easily digestible fashion
+
+-and preserve learning and difficulty curves of a game, macro flow (aka)
+
+OBJECTIVES:
+
+	Clearly defined objectives or goals must be present
+		High-tier goal: "Save the world from the big bad", guides the entire game flow
+		sub-tier goal - build sets of memorable experiences on a moment to moment basis
+
+	Objectives: should be clear and specific
